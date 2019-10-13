@@ -40,7 +40,7 @@
 		"monolog/monolog": "^1.0",
 		"wp-media/rocket-lazyload-common": "^2.2"
 	},
-	"minimum-stability":"dev"
+	"minimum-stability":"dev",
 	"require-dev": {
 		"brain/monkey": "^2.0",
 		"dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
