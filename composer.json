@@ -27,7 +27,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/tabrisrp/wp-background-processing"
+			"url": "https://github.com/Tabrisrp/wp-background-processing"
 		}
 	],
     	"require": {
