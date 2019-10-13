@@ -25,11 +25,11 @@
 		"source": "https://github.com/wp-media/wp-rocket"
 	},
 	"repositories": [
-		{
-			"type": "vcs",
-			"url": "https://github.com/Tabrisrp/wp-background-processing"
-		}
-	],
+        {
+		"type": "vcs",
+		"url": "https://github.com/Tabrisrp/wp-background-processing"
+        }
+    	],
     	"require": {
 		"php": ">=5.6.0",
 		"a5hleyrich/wp-background-processing": "1.3",
