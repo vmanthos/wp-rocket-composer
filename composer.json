@@ -32,7 +32,7 @@
 	],
     "require": {
 		"php": ">=5.6.0",
-		"a5hleyrich/wp-background-processing": "v1.3-dev",
+		"a5hleyrich/wp-background-processing": "master-dev",
 		"composer/installers": "~1.0",
 		"jamesryanbell/cloudflare": "^1.11",
 		"league/container": "2.4.1",
