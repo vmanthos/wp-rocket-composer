@@ -77,5 +77,5 @@
 		"test-integration": "\"vendor/bin/phpunit\" --testsuite integration --colors=always --configuration tests/Integration/phpunit.xml.dist"
 	},
 	"minimum-stability": "dev",
-    	"prefer-stable": true
+    	"prefer-stable": false
 }
